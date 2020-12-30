@@ -1,6 +1,6 @@
 # Desafio 020
-# Um professor que sortear a ordem de apresentação de trabalhos dos alunos.
-# Faça um programa que o ajude lendo o nome dos quatro alunos e mostre a ordem sorteada.
+# Um professor que sortear a ordem de apresentação de trabalhos dos alunos
+# Faça um programa que o ajude lendo o nome dos quatro alunos e mostre a ordem sorteada
 
 # Importando toda a biblioteca aleatória (random)
 import random

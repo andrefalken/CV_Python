@@ -1,7 +1,7 @@
 # Desafio 010
 # Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar 
 # Considere: US$1.00 = R$3.27 (Em 03/07/2017)
-# Extra: Faça a conversão para US$ e para € hoje 28/12/2020  em que US$1.00 = R$5.26 e 1€ = R$6.44
+# Extra: Faça a conversão para US$ e para € hoje (28/12/2020) em que US$1.00 = R$5.26 e 1€ = R$6.44
 
 # Declaração da variável que receberá a quantia que o usuário possui em reais
 reais = float(input('Digite o valor que você possui em R$: '))

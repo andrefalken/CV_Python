@@ -1,5 +1,5 @@
 # Desafio 005
-# Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor
+# Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
 
 # Declaração da variável que receberá o número inteiro digitado pelo usuário
 n = int(input('Digite um número inteiro: '))

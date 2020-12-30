@@ -4,8 +4,7 @@
 # Importando toda a biblioteca do Pygame
 import pygame
 
-# Declarando as variáveis que receberão os nomes dos alunos
-pygame.init()
+# Declarando as variáveis que darão play e irão reproduzir o arquivo .MP3 até o término
 pygame.mixer.music.load('Storm.mp3')
 pygame.music.play()
 pygame.event.wait()

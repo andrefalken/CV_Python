@@ -2,7 +2,7 @@
 # Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente
 
 # Pedindo ao(a) usuário(a) que entre com seu nome completo
-nome_completo = input('Digite seu nome completo: ')
+nome_completo = input('Digite seu nome completo: ').strip()
 
 # Fazendo a separação do nome
 nome_separado = nome_completo.split()

@@ -4,5 +4,5 @@
 # Importando toda a biblioteca do playsound
 from playsound import playsound
 
-# Declarando a variável para dar o play na música
+# Declarando as variáveis que darão play e irão reproduzir o arquivo .MP3 até o término
 playsound ('Storm.mp3')
